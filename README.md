@@ -30,8 +30,8 @@ Step 7: Save and run the application.
 
 ## PROGRAM
 
-### DEVELOPED BY : PRAVEEN V
-### REGISTER NO: 212222040121
+### DEVELOPED BY : madheswaran E
+### REGISTER NO: 212222040090
 
 
 ### MainActivity.java:
